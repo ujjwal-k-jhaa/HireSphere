@@ -1,0 +1,6 @@
+{
+  "name": "HireSphere",
+  "description": "HireSphere is an all-in-one HRIS, performance management, employee engagement, and people analytics platform built for strategic HR teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
